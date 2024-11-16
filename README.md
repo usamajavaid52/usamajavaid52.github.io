@@ -28,6 +28,7 @@ I am a **Full-Stack Software Engineer** with a strong interest in projects requi
 ### **ERP Solutions**  
 - Frappe ERPNext  
 
+---
 
 ## 🌟 **What I’m Working On**  
 - Frappe ERPNext, Angular, Vue.js, Node.js with Express, and ClickHouse  
