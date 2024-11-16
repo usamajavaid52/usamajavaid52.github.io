@@ -43,7 +43,7 @@ I am a **Full-Stack Software Engineer** with a strong interest in projects requi
 
 ## 📫 **Connect With Me**  
 - **LinkedIn**: [Usama Javaid](https://www.linkedin.com/in/usama-javaid)  
-- **Email**: [usamajavaid52@example.com](mailto:usamajavaid52@example.com)  
+- **Email**: [usamajavaid52@example.com](mailto:usamajavaid52@gmail.com)  
 
 ---
 
