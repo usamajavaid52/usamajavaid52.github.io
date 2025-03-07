@@ -152,12 +152,13 @@ a:hover {
 @media (min-width: 891px) {
   .intro h1:before {
     position: absolute;
-    top: 0px;
-    left: 50%;
-    font-size: 20dvw;
+    top: 50%;
+    left: 40%;
+    font-size: clamp(11rem, 23vw, 18rem);
     z-index: -1;
     color: #f4f4f4;
-    transform: translate(-57%, -50%);
+    transform: translate(-50%, -50%);
+    white-space: nowrap;
   }
 }
 
